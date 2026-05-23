@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi, I'm Tayyab Mehmood 
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-pIZgHkzHAdVIX3ea_ZvBw5lav-kRsNUsI6OAFZCX1oN10bOWFjWA-BrQwzYc9xM7wjHutb5Ev6CQRQeqNQEm6vcJ-iEycbU8JP7NIhqgON_ldA1eQyIXoTwoEcOh0eoTyd9DjV85RsQ/s0-e90-rw/Flag_of_Pakistan.gif" width="35"/>
+  👋 I am Tayyab Mehmood
 </h1>
 
 ---
@@ -72,19 +71,19 @@ A console-based application that analyzes student submissions to detect plagiari
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-mehmood-468765376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-00b2ca?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00b2ca?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-00b2ca?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=for-the-badge&logo=facebook&logoColor=1d4e89"/>
+    <img src="https://img.shields.io/badge/-Facebook-00b2ca?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:tayyab.mehmood.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fbd1a2?style=for-the-badge&logo=gmail&logoColor=1d4e89"/>
+    <img src="https://img.shields.io/badge/-Email-00b2ca?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-f79256?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio-00b2ca?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -92,7 +91,7 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ## Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=Profile%20Views&color=f79256&style=pill" />
+  <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=PROFILE+VIEWS&color=f79256&style=flat-square" />
 </p>
 
 ---
