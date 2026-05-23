@@ -70,7 +70,7 @@ A console-based application that analyzes student submissions to detect plagiari
 ## Connect With Me
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/tayyab-mehmood-468765376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -82,7 +82,7 @@ A console-based application that analyzes student submissions to detect plagiari
     <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=for-the-badge&logo=facebook&logoColor=1d4e89"/>
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:tayyab.mehmood.cs@gmail.com">
     <img src="https://img.shields.io/badge/Email-fbd1a2?style=for-the-badge&logo=gmail&logoColor=1d4e89"/>
   </a>
 
@@ -90,7 +90,6 @@ A console-based application that analyzes student submissions to detect plagiari
     <img src="https://img.shields.io/badge/Portfolio-f79256?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## Profile Views
