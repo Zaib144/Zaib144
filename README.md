@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" length="20%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" style="max-height: 200px; object-fit: cover;" />
 </p>
+
 <h1 align="center">
   Hi there, I am Tayyab Mehmood! 👋
 </h1>
+
 <p align="center">
   <strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong>
 </p>
 
-👤 About Me
+---
+
+## 👤 About Me
+
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -22,18 +27,26 @@
   </tr>
 </table>
 
-🚀 Projects
-⚡ USB Malware Detector
-A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.
-Tech Stack: Python
-⚡ Study Mate (Android App)
-An Android-based study assistant designed to help students organize tasks, manage study schedules, and improve productivity through a simple and user-friendly interface.
-Tech Stack: Java, Android SDK
-⚡ Plagiarism Detection System
-A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.
-Tech Stack: C++
+---
 
-📈 GitHub Stats
+## 🚀 Projects
+
+### ⚡ [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
+A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.  
+**Tech Stack:** Python
+
+### ⚡ [Study Mate (Android App)](https://github.com/Zaib-Saadat/study-mate-android)
+An Android-based study assistant designed to help students organize tasks, manage study schedules, and improve productivity through a simple and user-friendly interface.  
+**Tech Stack:** Java, Android SDK
+
+### ⚡ [Plagiarism Detection System](https://github.com/Tayyab-Mehmood/DSA-Project)
+A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.  
+**Tech Stack:** C++
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/Tayyab-Mehmood">
     <img src="https://github-readme-stats-three-liard-11.vercel.app/api?username=Tayyab-Mehmood&show_icons=true&theme=dark&title_color=00b2ca&icon_color=f79256&text_color=ffffff&bg_color=14191f&hide_border=false" height="165" alt="GitHub Stats" />
@@ -42,25 +55,34 @@ Tech Stack: C++
     <img src="https://streak-stats.demolab.com?user=Tayyab-Mehmood&theme=dark&ring=00b2ca&fire=f79256&currStreakLabel=7dcfb6&background=14191f&hide_border=false" height="165" alt="GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Tayyab-Mehmood">
     <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Tayyab-Mehmood&layout=compact&theme=dark&title_color=00b2ca&text_color=ffffff&bg_color=14191f&hide_border=false" height="140" alt="Top Languages" />
   </a>
 </p>
 
-📚 Currently Learning
+---
 
-🤖 AI & LLM Integration: Figuring out how to connect intelligent language models to traditional web apps.
-⚡ Advanced Full-Stack Engineering: Diving deeper into scalable backend architecture and real-time data streaming.
-🎨 UI/UX Optimization: Refining front-end layouts to ensure application flows are accessible and highly intuitive.
+## 📚 Currently Learning
+
+*   🤖 **AI & LLM Integration:** Figuring out how to connect intelligent language models to traditional web apps.
+*   ⚡ **Advanced Full-Stack Engineering:** Diving deeper into scalable backend architecture and real-time data streaming.
+*   🎨 **UI/UX Optimization:** Refining front-end layouts to ensure application flows are accessible and highly intuitive.
+
+---
+
+## ☕ Coding Vibes
 
 
-☕ Coding Vibes
+
+---
 
 🧠 Mindset
 
 "The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."
 
+---
 
 🌐 Connect With Me
 <p align="center">
@@ -80,6 +102,8 @@ Tech Stack: C++
     <img src="https://img.shields.io/badge/Portfolio-f79256?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
 
 👁️ Profile Views
 <p align="center">
