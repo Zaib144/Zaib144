@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94bXN6M3N5bms3Z3R4ODVpdm95bTR3Y3p4M2o1ZnA0bW9scXF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RfbD1n|/43FzmUt9Yp3EA/giphy.gif" alt="Developer Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
 </p>
-
 <h1 align="center">
   Hi there, I am Tayyab Mehmood! 👋
 </h1>
-
 <p align="center">
   <strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong>
 </p>
 
----
-
-## 👤 About Me
-
+👤 About Me
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -27,26 +22,18 @@
   </tr>
 </table>
 
----
+🚀 Projects
+⚡ USB Malware Detector
+A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.
+Tech Stack: Python
+⚡ Study Mate (Android App)
+An Android-based study assistant designed to help students organize tasks, manage study schedules, and improve productivity through a simple and user-friendly interface.
+Tech Stack: Java, Android SDK
+⚡ Plagiarism Detection System
+A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.
+Tech Stack: C++
 
-## 🚀 Projects
-
-### ⚡ [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
-A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.  
-**Tech Stack:** Python
-
-### ⚡ [Study Mate (Android App)](https://github.com/Zaib-Saadat/study-mate-android)
-An Android-based study assistant designed to help students organize tasks, manage study schedules, and improve productivity through a simple and user-friendly interface.  
-**Tech Stack:** Java, Android SDK
-
-### ⚡ [Plagiarism Detection System](https://github.com/Tayyab-Mehmood/DSA-Project)
-A console-based application that analyzes student submissions to detect plagiarism by identifying copying patterns and calculating similarity percentages between files.  
-**Tech Stack:** C++
-
----
-
-## 📈 GitHub Stats
-
+📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/Tayyab-Mehmood">
     <img src="https://github-readme-stats-three-liard-11.vercel.app/api?username=Tayyab-Mehmood&show_icons=true&theme=dark&title_color=00b2ca&icon_color=f79256&text_color=ffffff&bg_color=14191f&hide_border=false" height="165" alt="GitHub Stats" />
@@ -55,33 +42,27 @@ A console-based application that analyzes student submissions to detect plagiari
     <img src="https://streak-stats.demolab.com?user=Tayyab-Mehmood&theme=dark&ring=00b2ca&fire=f79256&currStreakLabel=7dcfb6&background=14191f&hide_border=false" height="165" alt="GitHub Streak" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Tayyab-Mehmood">
     <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Tayyab-Mehmood&layout=compact&theme=dark&title_color=00b2ca&text_color=ffffff&bg_color=14191f&hide_border=false" height="140" alt="Top Languages" />
   </a>
 </p>
 
----
+📚 Currently Learning
 
-## 📚 Currently Learning
+🤖 AI & LLM Integration: Figuring out how to connect intelligent language models to traditional web apps.
+⚡ Advanced Full-Stack Engineering: Diving deeper into scalable backend architecture and real-time data streaming.
+🎨 UI/UX Optimization: Refining front-end layouts to ensure application flows are accessible and highly intuitive.
 
-*   🤖 **AI & LLM Integration:** Figuring out how to connect intelligent language models to traditional web apps.
-*   ⚡ **Advanced Full-Stack Engineering:** Diving deeper into scalable backend architecture and real-time data streaming.
-*   🎨 **UI/UX Optimization:** Refining front-end layouts to ensure application flows are accessible and highly intuitive.
 
----
+☕ Coding Vibes
 
-## ☕ Coding Vibes
----
-## 🧠 Mindset
+🧠 Mindset
 
-> *"The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."*
+"The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."
 
----
 
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-mehmood-468765376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -100,10 +81,7 @@ A console-based application that analyzes student submissions to detect plagiari
   </a>
 </p>
 
----
-
-## 👁️ Profile Views
-
+👁️ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=PROFILE+VIEWS&color=1d4e89&style=flat-square" alt="Profile Views" />
 </p>
