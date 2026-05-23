@@ -74,17 +74,16 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ## ☕ Coding Vibes
 
+---
 
+## 🧠 Mindset
+
+> *"The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."*
 
 ---
 
-🧠 Mindset
+## 🌐 Connect With Me
 
-"The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."
-
----
-
-🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-mehmood-468765376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -95,8 +94,8 @@ A console-based application that analyzes student submissions to detect plagiari
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=flat-square&logo=facebook&logoColor=1d4e89" alt="Facebook" />
   </a>
-  <a href="mailto:tayyab.mehmood.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fbd1a2?style=flat-square&logo=gmail&logoColor=1d4e89" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&to=tayyab.mehmood.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-f79256?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -105,7 +104,8 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-👁️ Profile Views
+## 👁️ Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=PROFILE+VIEWS&color=1d4e89&style=flat-square" alt="Profile Views" />
 </p>
