@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1d4e89&height=200&section=header&text=HELLO%20WORLD&fontSize=50&animation=fadeIn&fontColor=00b2ca" alt="Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94bXN6M3N5bms3Z3R4ODVpdm95bTR3Y3p4M2o1ZnA0bW9scXF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RfbD1n|/43FzmUt9Yp3EA/giphy.gif" alt="Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  I am Tayyab Mehmood
+  Hi there, I am Tayyab Mehmood! 👋
 </h1>
+
+<p align="center">
+  <strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong>
+</p>
 
 ---
 
-## About Me
+## 👤 About Me
 
 <table>
   <tr>
@@ -18,14 +22,14 @@
       <p>I am currently expanding my expertise in modern web technologies and AI integration, with the aim of becoming a skilled developer capable of contributing to impactful software solutions in the industry.</p>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode&perline=3" width="180px" />
+      <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode&perline=3" width="180px" alt="My Skills" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### ⚡ [USB Malware Detector](https://github.com/Zaib-Saadat/USB-malware-detector)
 A security-focused application that scans USB devices to detect and prevent potential malware threats, helping protect systems from unauthorized or malicious files.  
@@ -41,65 +45,65 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-three-liard-11.vercel.app/api?username=Tayyab-Mehmood&show_icons=true&theme=dark&title_color=00b2ca&icon_color=f79256&text_color=ffffff&bg_color=14191f&hide_border=false" height="165" />
+  <a href="https://github.com/Tayyab-Mehmood">
+    <img src="https://github-readme-stats-three-liard-11.vercel.app/api?username=Tayyab-Mehmood&show_icons=true&theme=dark&title_color=00b2ca&icon_color=f79256&text_color=ffffff&bg_color=14191f&hide_border=false" height="165" alt="GitHub Stats" />
   </a>
-  <a href="#">
-    <img src="https://streak-stats.demolab.com?user=Tayyab-Mehmood&theme=dark&ring=00b2ca&fire=f79256&currStreakLabel=7dcfb6&background=14191f&hide_border=false" height="165" />
+  <a href="https://github.com/Tayyab-Mehmood">
+    <img src="https://streak-stats.demolab.com?user=Tayyab-Mehmood&theme=dark&ring=00b2ca&fire=f79256&currStreakLabel=7dcfb6&background=14191f&hide_border=false" height="165" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Tayyab-Mehmood&layout=compact&theme=dark&title_color=00b2ca&text_color=ffffff&bg_color=14191f&hide_border=false" height="140" />
+  <a href="https://github.com/Tayyab-Mehmood">
+    <img src="https://github-readme-stats-three-liard-11.vercel.app/api/top-langs/?username=Tayyab-Mehmood&layout=compact&theme=dark&title_color=00b2ca&text_color=ffffff&bg_color=14191f&hide_border=false" height="140" alt="Top Languages" />
   </a>
 </p>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-
----
-
-## Coding Vibes
-
+*   🤖 **AI & LLM Integration:** Figuring out how to connect intelligent language models to traditional web apps.
+*   ⚡ **Advanced Full-Stack Engineering:** Diving deeper into scalable backend architecture and real-time data streaming.
+*   🎨 **UI/UX Optimization:** Refining front-end layouts to ensure application flows are accessible and highly intuitive.
 
 ---
 
-## Connect With Me
+## ☕ Coding Vibes
+---
+## 🧠 Mindset
+
+> *"The best way to predict the future is to invent it. Focus on writing clean code today to build smarter solutions for tomorrow."*
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-mehmood-468765376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1d4e89?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00b2ca?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-00b2ca?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=flat-square&logo=facebook&logoColor=1d4e89"/>
+    <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=flat-square&logo=facebook&logoColor=1d4e89" alt="Facebook" />
   </a>
   <a href="mailto:tayyab.mehmood.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fbd1a2?style=flat-square&logo=gmail&logoColor=1d4e89"/>
+    <img src="https://img.shields.io/badge/Email-fbd1a2?style=flat-square&logo=gmail&logoColor=1d4e89" alt="Email" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-f79256?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-f79256?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## Profile Views
+## 👁️ Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=PROFILE+VIEWS&color=1d4e89&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Tayyab-Mehmood&label=PROFILE+VIEWS&color=1d4e89&style=flat-square" alt="Profile Views" />
 </p>
-
----
-
-## Mindset
-
-
----
