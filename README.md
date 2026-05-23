@@ -74,9 +74,9 @@ A console-based application that analyzes student submissions to detect plagiari
 
 ## ☕ Coding Vibes
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc2cjZrOW10ZzB1aGNhNXpxZ3FxN25pNzZodTVmMHo5cGIydmkyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdtMTluenFtcTZxYnIyczB1MnduejVrdHZyNHhvcXA4OHFkYjNjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="80%" />
 </p>
----
+
 
 ## 🧠 Mindset
 
