@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" length="50%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" length="20%"/>
 </p>
 <h1 align="center">
   Hi there, I am Tayyab Mehmood! 👋
